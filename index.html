@@ -10,22 +10,39 @@
 
 <body>
     <nav>
-        <label>
-            <select name="mode" class="dropdown">
-                <option value="Light" class="option">💡 Light Mode</option>
-                <option value="Dark" class ="option">🌙 Dark Mode</option>
-            </select>
-        </label>
+
+        <div class="nav-container">
+            <div class="difficulty-level">
+                <div class="text-nav">
+                    <!-- <p class="tex">Difficulty Level</p> -->
+                     <label for="difficulty" class="text-nav">Difficulty Level</label>
+                </div>
+                <div>
+                    <label>
+                        <select name="difficultyOfQuiz" class="dropdown">
+                            <!-- <option value="">Select Difficulty</option> -->
+                            <option value="Easy" class="option">Easy</option>
+                            <option value="Medium" class ="option">Medium</option>
+                            <option value="Hard" class ="option">Hard</option>
+                        </select>
+                        <!-- <select name="mode" class="dropdown">
+                            <option value="Light" class="option">💡 Light Mode</option>
+                            <option value="Dark" class ="option">🌙 Dark Mode</option>
+                        </select> -->
+                    </label>
+                </div>
+            </div>
+        </div>
+
     </nav>  
     <main>
         <div class ="mainbox">
             <div class="t1">Welcome to Our Quiz</div>
             <div class="boldtext"><stron>Learn & Evolve</strong></div>
-                <div class="txt2"><br>Pick a subject to get started.</div>
+                <div class="txt2"><br>Pick a subject and difficulty to get started.</div>
         </div>
         
         <div class="container">
-            
                 <button class=" btn button1"><img src="https://rainsaxfrontend-mentor-projects.github.io/frontend-quiz-app/assets/images/icon-js.svg" alt="Code" class="img1"> Java </button>
             
                 <button class=" btn button2"> <img src="https://rainsaxfrontend-mentor-projects.github.io/frontend-quiz-app/assets/images/icon-accessibility.svg" alt="React" class="img2">React</button>
