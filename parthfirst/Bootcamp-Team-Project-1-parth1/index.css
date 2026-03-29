@@ -1,0 +1,209 @@
+:root {
+    --backgroundcolor: radial-gradient(circle, #2c3e50 0%, #000000 100%);
+    --darkbackgroundcolor: radial-gradient(circle, #232526 0%, #111111 100%);
+    --accent-glow: #00d4ff;
+    --accent-hover: #008fb3;
+    --text-main: #ffffff;
+    --btn-text: #05161a;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.nav-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.difficulty-level{
+    /* width: ; */
+    border: 1px solid rgba(0, 212, 255, 0.2);
+    box-shadow: 0px 0px 50px 10px rgba(0, 212, 255, 0.3);
+    /* border: 1px solid #4e5658; */
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    gap: 20px;
+    transition: all 0.3s ease-in-out;
+}
+.difficulty-level:hover{
+    box-shadow: 0px 0px 60px 15px rgba(0, 212, 255, 0.5);
+}
+.text-nav{
+    /* border: 1px solid var(--accent-glow);
+    border-radius: 5px; */
+    /* padding: 10px; */
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    align-items: center;
+    color: var(--text-main);
+    /* margin-right: 15px; */
+}
+
+
+body {
+    background: var(--darkbackgroundcolor);
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif; 
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 40px;
+}
+
+.dropdown {
+    /* width: 100%;  */
+    color: var(--text-main);
+    background: #111; 
+    /* border: 1px solid #4e5658; */
+    border: 1px solid var(--accent-glow);
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+    transition: 0.3s;
+}
+
+/* .dropdown {
+    color: var(--text-main);
+    background: #111; 
+    border: 1px solid var(--accent-glow);
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+    transition: 0.3s;
+} */
+
+/* .dropdown:hover {
+    box-shadow: 0 0 10px var(--accent-glow);
+} */
+
+
+main {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    margin-top: 80px;
+    flex-wrap: wrap; 
+    padding: 0 20px;
+
+    
+}
+
+.mainbox {
+    border: 1px solid rgba(0, 212, 255, 0.2);
+    box-shadow: 0px 0px 50px 10px rgba(0, 212, 255, 0.3);
+    min-height: 50vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out;
+    width: 90%; 
+    max-width: 480px; 
+    background: rgba(255, 255, 255, 0.03); 
+    margin: 20px; 
+    animation: slideIn 0.8s ease-out forwards;
+}
+
+.mainbox:hover {
+    transform: translateY(-5px) scale(1.02); 
+    box-shadow: 0px 0px 60px 20px rgba(0, 212, 255, 0.5);
+}
+
+.boldtext, .t1, .txt2 {
+    color: var(--text-main);
+    text-shadow: var(--accent-glow) 0 0 12px;
+    text-align: center;
+    padding: 0 15px;
+}
+
+.t1 { font-size: clamp(2rem, 5vw, 43px); } 
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    max-width: 400px;
+    gap: 10px;
+    margin: 20px;
+}
+
+.btn {
+    display: flex;
+    width: 100%; 
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: var(--accent-glow);
+    color: var(--btn-text);
+    font-weight: bold;
+    border: none;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: var(--accent-hover);
+    color: white;
+    box-shadow: 0px 0px 30px var(--accent-glow);
+}
+
+/* --- ANIMATIONS --- */
+.button1 { animation: wooble1 3s linear infinite; }
+.button2 { animation: wooble1 3s linear 0.4s infinite; }
+.button3 { animation: wooble1 3s linear 0.8s infinite; }
+.button4 { animation: wooble1 3s linear 1.2s infinite; }
+
+@keyframes wooble1 {
+    0%, 50%, 100% 
+    { transform: translateX(0px); }
+    25% 
+    { transform: translateX(10px); }
+    75% 
+    { transform: translateX(-10px); }
+}
+
+
+@media (max-width: 1000px) {
+    main {
+        margin-top: 50px;
+        flex-direction: column; 
+    }
+    
+    .mainbox, .container {
+        margin: 20px 0;
+        width: 95%; 
+    }
+}
+
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
