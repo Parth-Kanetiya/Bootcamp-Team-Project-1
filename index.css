@@ -61,7 +61,7 @@ nav {
     padding: 20px 40px;
 }
 
-.dropdown {
+.difficulty-dropdown {
     /* width: 100%;  */
     color: var(--text-main);
     background: #111; 
@@ -146,6 +146,11 @@ main {
     margin: 20px;
 }
 
+/* .container a{
+    width: 100%;
+    text-decoration: none;
+} */
+
 .btn {
     display: flex;
     width: 100%; 
@@ -169,10 +174,10 @@ main {
 }
 
 /* --- ANIMATIONS --- */
-.button1 { animation: wooble1 3s linear infinite; }
-.button2 { animation: wooble1 3s linear 0.4s infinite; }
-.button3 { animation: wooble1 3s linear 0.8s infinite; }
-.button4 { animation: wooble1 3s linear 1.2s infinite; }
+#button-js { animation: wooble1 3s linear infinite; }
+#button-react { animation: wooble1 3s linear 0.4s infinite; }
+#button-css { animation: wooble1 3s linear 0.8s infinite; }
+#button-html { animation: wooble1 3s linear 1.2s infinite; }
 
 @keyframes wooble1 {
     0%, 50%, 100% 

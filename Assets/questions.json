@@ -1,0 +1,3122 @@
+[
+  {
+    "id": 1,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Markup Language"
+    ],
+    "correctAnswer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 2,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to create a hyperlink?",
+    "options": [
+      "&lt;link&gt;",
+      "&lt;a&gt;",
+      "&lt;href&gt;",
+      "&lt;url&gt;"
+    ],
+    "correctAnswer": "&lt;a&gt;"
+  },
+  {
+    "id": 3,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to display an image?",
+    "options": [
+      "&lt;pic&gt;",
+      "&lt;image&gt;",
+      "&lt;img&gt;",
+      "&lt;src&gt;"
+    ],
+    "correctAnswer": "&lt;img&gt;"
+  },
+  {
+    "id": 4,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag creates the largest heading?",
+    "options": [
+      "&lt;h6&gt;",
+      "&lt;heading&gt;",
+      "&lt;h1&gt;",
+      "&lt;head&gt;"
+    ],
+    "correctAnswer": "&lt;h1&gt;"
+  },
+  {
+    "id": 5,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to create a paragraph?",
+    "options": [
+      "&lt;para&gt;",
+      "&lt;p&gt;",
+      "&lt;pg&gt;",
+      "&lt;pr&gt;"
+    ],
+    "correctAnswer": "&lt;p&gt;"
+  },
+  {
+    "id": 6,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which attribute specifies the URL of a hyperlink?",
+    "options": [
+      "src",
+      "link",
+      "href",
+      "url"
+    ],
+    "correctAnswer": "href"
+  },
+  {
+    "id": 7,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag creates an unordered list?",
+    "options": [
+      "&lt;ol&gt;",
+      "&lt;li&gt;",
+      "&lt;ul&gt;",
+      "&lt;list&gt;"
+    ],
+    "correctAnswer": "&lt;ul&gt;"
+  },
+  {
+    "id": 8,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag creates an ordered list?",
+    "options": [
+      "&lt;ul&gt;",
+      "&lt;ol&gt;",
+      "&lt;li&gt;",
+      "&lt;list&gt;"
+    ],
+    "correctAnswer": "&lt;ol&gt;"
+  },
+  {
+    "id": 9,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to define a list item?",
+    "options": [
+      "&lt;list&gt;",
+      "&lt;item&gt;",
+      "&lt;li&gt;",
+      "&lt;dl&gt;"
+    ],
+    "correctAnswer": "&lt;li&gt;"
+  },
+  {
+    "id": 10,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to create a line break?",
+    "options": [
+      "&lt;lb&gt;",
+      "&lt;break&gt;",
+      "&lt;br&gt;",
+      "&lt;newline&gt;"
+    ],
+    "correctAnswer": "&lt;br&gt;"
+  },
+  {
+    "id": 11,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag makes text bold?",
+    "options": [
+      "&lt;bold&gt;",
+      "&lt;b&gt;",
+      "&lt;strong&gt;",
+      "Both &lt;b&gt; and &lt;strong&gt;"
+    ],
+    "correctAnswer": "Both &lt;b&gt; and &lt;strong&gt;"
+  },
+  {
+    "id": 12,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag makes text italic?",
+    "options": [
+      "&lt;italic&gt;",
+      "&lt;i&gt;",
+      "&lt;em&gt;",
+      "Both &lt;i&gt; and &lt;em&gt;"
+    ],
+    "correctAnswer": "Both &lt;i&gt; and &lt;em&gt;"
+  },
+  {
+    "id": 13,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": [
+      "class",
+      "style",
+      "font",
+      "css"
+    ],
+    "correctAnswer": "style"
+  },
+  {
+    "id": 14,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for inserting a background image?",
+    "options": [
+      "&lt;body bg='image.jpg'&gt;",
+      "&lt;background&gt;image.jpg&lt;/background&gt;",
+      "&lt;body style='background-image:url(image.jpg)'&gt;",
+      "&lt;img background='image.jpg'&gt;"
+    ],
+    "correctAnswer": "&lt;body style='background-image:url(image.jpg)'&gt;"
+  },
+  {
+    "id": 15,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag defines the title of the document?",
+    "options": [
+      "&lt;head&gt;",
+      "&lt;meta&gt;",
+      "&lt;title&gt;",
+      "&lt;header&gt;"
+    ],
+    "correctAnswer": "&lt;title&gt;"
+  },
+  {
+    "id": 16,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to create a table?",
+    "options": [
+      "&lt;tb&gt;",
+      "&lt;tbl&gt;",
+      "&lt;table&gt;",
+      "&lt;tab&gt;"
+    ],
+    "correctAnswer": "&lt;table&gt;"
+  },
+  {
+    "id": 17,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag defines a table row?",
+    "options": [
+      "&lt;td&gt;",
+      "&lt;th&gt;",
+      "&lt;tr&gt;",
+      "&lt;row&gt;"
+    ],
+    "correctAnswer": "&lt;tr&gt;"
+  },
+  {
+    "id": 18,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag defines a table header cell?",
+    "options": [
+      "&lt;thead&gt;",
+      "&lt;th&gt;",
+      "&lt;td&gt;",
+      "&lt;header&gt;"
+    ],
+    "correctAnswer": "&lt;th&gt;"
+  },
+  {
+    "id": 19,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "Which tag is used to create a form?",
+    "options": [
+      "&lt;input&gt;",
+      "&lt;form&gt;",
+      "&lt;submit&gt;",
+      "&lt;field&gt;"
+    ],
+    "correctAnswer": "&lt;form&gt;"
+  },
+  {
+    "id": 20,
+    "category": "html",
+    "difficulty": "easy",
+    "question": "What is the correct HTML element for the largest font size?",
+    "options": [
+      "&lt;font size='6'&gt;",
+      "&lt;h1&gt;",
+      "&lt;h6&gt;",
+      "&lt;big&gt;"
+    ],
+    "correctAnswer": "&lt;h1&gt;"
+  },
+  {
+    "id": 21,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "&lt;script&gt;",
+      "&lt;style&gt;",
+      "&lt;css&gt;",
+      "&lt;link&gt;"
+    ],
+    "correctAnswer": "&lt;style&gt;"
+  },
+  {
+    "id": 22,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which attribute is used to specify the character encoding for an HTML document?",
+    "options": [
+      "encoding",
+      "charset",
+      "lang",
+      "type"
+    ],
+    "correctAnswer": "charset"
+  },
+  {
+    "id": 23,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which input type defines a slider control?",
+    "options": [
+      "slider",
+      "range",
+      "number",
+      "drag"
+    ],
+    "correctAnswer": "range"
+  },
+  {
+    "id": 24,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to embed a JavaScript file?",
+    "options": [
+      "&lt;js&gt;",
+      "&lt;javascript&gt;",
+      "&lt;script&gt;",
+      "&lt;code&gt;"
+    ],
+    "correctAnswer": "&lt;script&gt;"
+  },
+  {
+    "id": 25,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "What does the 'alt' attribute in an &lt;img&gt; tag do?",
+    "options": [
+      "Defines image alignment",
+      "Provides alternative text for the image",
+      "Sets the image as alternate",
+      "Adds a caption"
+    ],
+    "correctAnswer": "Provides alternative text for the image"
+  },
+  {
+    "id": 26,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to define navigation links?",
+    "options": [
+      "&lt;nav&gt;",
+      "&lt;navigate&gt;",
+      "&lt;menu&gt;",
+      "&lt;link&gt;"
+    ],
+    "correctAnswer": "&lt;nav&gt;"
+  },
+  {
+    "id": 27,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which attribute makes an input field required?",
+    "options": [
+      "validate",
+      "mandatory",
+      "required",
+      "must"
+    ],
+    "correctAnswer": "required"
+  },
+  {
+    "id": 28,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to define a section of a webpage?",
+    "options": [
+      "&lt;div&gt;",
+      "&lt;section&gt;",
+      "&lt;article&gt;",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": 29,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "What is the purpose of the &lt;meta&gt; tag?",
+    "options": [
+      "To display metadata on the page",
+      "To provide metadata about the HTML document",
+      "To add meta animations",
+      "To link external files"
+    ],
+    "correctAnswer": "To provide metadata about the HTML document"
+  },
+  {
+    "id": 30,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which HTML tag is used to define emphasized text?",
+    "options": [
+      "&lt;em&gt;",
+      "&lt;i&gt;",
+      "&lt;strong&gt;",
+      "&lt;b&gt;"
+    ],
+    "correctAnswer": "&lt;em&gt;"
+  },
+  {
+    "id": 31,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "What does the 'colspan' attribute do in a table?",
+    "options": [
+      "Spans a cell across multiple rows",
+      "Spans a cell across multiple columns",
+      "Sets the column width",
+      "Merges all columns"
+    ],
+    "correctAnswer": "Spans a cell across multiple columns"
+  },
+  {
+    "id": 32,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to define a footer for a document?",
+    "options": [
+      "&lt;bottom&gt;",
+      "&lt;footer&gt;",
+      "&lt;end&gt;",
+      "&lt;foot&gt;"
+    ],
+    "correctAnswer": "&lt;footer&gt;"
+  },
+  {
+    "id": 33,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which input type is used for email input?",
+    "options": [
+      "text",
+      "mail",
+      "email",
+      "input-email"
+    ],
+    "correctAnswer": "email"
+  },
+  {
+    "id": 34,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "What is the use of the &lt;canvas&gt; tag?",
+    "options": [
+      "To embed a video",
+      "To draw graphics via JavaScript",
+      "To display spreadsheets",
+      "To insert images"
+    ],
+    "correctAnswer": "To draw graphics via JavaScript"
+  },
+  {
+    "id": 35,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag defines the main content of a page?",
+    "options": [
+      "&lt;body&gt;",
+      "&lt;main&gt;",
+      "&lt;content&gt;",
+      "&lt;section&gt;"
+    ],
+    "correctAnswer": "&lt;main&gt;"
+  },
+  {
+    "id": 36,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which attribute specifies a tooltip for an element?",
+    "options": [
+      "tooltip",
+      "alt",
+      "title",
+      "hint"
+    ],
+    "correctAnswer": "title"
+  },
+  {
+    "id": 37,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to embed a video in HTML5?",
+    "options": [
+      "&lt;media&gt;",
+      "&lt;embed&gt;",
+      "&lt;video&gt;",
+      "&lt;movie&gt;"
+    ],
+    "correctAnswer": "&lt;video&gt;"
+  },
+  {
+    "id": 38,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "What does the 'action' attribute in a form specify?",
+    "options": [
+      "The form style",
+      "The URL to send form data to",
+      "The form method",
+      "The form validation"
+    ],
+    "correctAnswer": "The URL to send form data to"
+  },
+  {
+    "id": 39,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to group table header content?",
+    "options": [
+      "&lt;thead&gt;",
+      "&lt;th&gt;",
+      "&lt;header&gt;",
+      "&lt;tgroup&gt;"
+    ],
+    "correctAnswer": "&lt;thead&gt;"
+  },
+  {
+    "id": 40,
+    "category": "html",
+    "difficulty": "medium",
+    "question": "Which tag is used to define a dropdown list?",
+    "options": [
+      "&lt;dropdown&gt;",
+      "&lt;list&gt;",
+      "&lt;select&gt;",
+      "&lt;option&gt;"
+    ],
+    "correctAnswer": "&lt;select&gt;"
+  },
+  {
+    "id": 41,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the correct purpose of the HTML &lt;track&gt; element?",
+    "options": [
+      "To track user mouse movements",
+      "To define text tracks for media elements like &lt;video&gt; and &lt;audio&gt;",
+      "To trace the loading speed of the webpage",
+      "To draw a line across the webpage"
+    ],
+    "correctAnswer": "To define text tracks for media elements like &lt;video&gt; and &lt;audio&gt;"
+  },
+  {
+    "id": 42,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What does the 'defer' attribute do in a &lt;script&gt; tag?",
+    "options": [
+      "Delays the script by 1 second",
+      "Executes the script after the page has finished parsing",
+      "Prevents the script from executing",
+      "Loads the script asynchronously"
+    ],
+    "correctAnswer": "Executes the script after the page has finished parsing"
+  },
+  {
+    "id": 43,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the difference between &lt;article&gt; and &lt;section&gt;?",
+    "options": [
+      "There is no difference",
+      "&lt;article&gt; is for self-contained content, &lt;section&gt; groups related content",
+      "&lt;section&gt; is for standalone content",
+      "&lt;article&gt; is a block element, &lt;section&gt; is inline"
+    ],
+    "correctAnswer": "&lt;article&gt; is for self-contained content, &lt;section&gt; groups related content"
+  },
+  {
+    "id": 44,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'rel' attribute in a &lt;link&gt; tag?",
+    "options": [
+      "Specifies the relationship between the document and the linked resource",
+      "Sets the relative URL",
+      "Adds a reload trigger",
+      "Defines the language"
+    ],
+    "correctAnswer": "Specifies the relationship between the document and the linked resource"
+  },
+  {
+    "id": 45,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the &lt;datalist&gt; element?",
+    "options": [
+      "Creates a list of data values",
+      "Provides a list of predefined options for an &lt;input&gt; element",
+      "Fetches data from a server",
+      "Defines a dataset for a chart"
+    ],
+    "correctAnswer": "Provides a list of predefined options for an &lt;input&gt; element"
+  },
+  {
+    "id": 46,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "Which attribute is used to specify that an input field should automatically get focus when the page loads?",
+    "options": [
+      "focus",
+      "autofocus",
+      "autoactive",
+      "default"
+    ],
+    "correctAnswer": "autofocus"
+  },
+  {
+    "id": 47,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What does ARIA stand for in web development?",
+    "options": [
+      "Accessible Rich Internet Applications",
+      "Advanced Responsive Interface Attributes",
+      "Automated React Interface API",
+      "Accessible Runtime Integration Architecture"
+    ],
+    "correctAnswer": "Accessible Rich Internet Applications"
+  },
+  {
+    "id": 48,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the &lt;picture&gt; element in HTML5?",
+    "options": [
+      "To display multiple images at once",
+      "To provide multiple image sources for different screen sizes",
+      "To create image galleries",
+      "To add image captions"
+    ],
+    "correctAnswer": "To provide multiple image sources for different screen sizes"
+  },
+  {
+    "id": 49,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What does the 'srcset' attribute in an &lt;img&gt; tag do?",
+    "options": [
+      "Sets the image source",
+      "Provides multiple image sources for different screen resolutions",
+      "Sets a source fallback",
+      "Specifies image metadata"
+    ],
+    "correctAnswer": "Provides multiple image sources for different screen resolutions"
+  },
+  {
+    "id": 50,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the Shadow DOM?",
+    "options": [
+      "A hidden copy of the DOM",
+      "An encapsulated DOM tree attached to an element, separate from the main DOM",
+      "A performance optimization technique",
+      "A CSS animation technique"
+    ],
+    "correctAnswer": "An encapsulated DOM tree attached to an element, separate from the main DOM"
+  },
+  {
+    "id": 51,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the &lt;template&gt; tag in HTML?",
+    "options": [
+      "To create HTML templates for emails",
+      "To hold client-side content that is not rendered when the page loads",
+      "To define reusable CSS styles",
+      "To load JavaScript templates"
+    ],
+    "correctAnswer": "To hold client-side content that is not rendered when the page loads"
+  },
+  {
+    "id": 52,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What does the 'async' attribute do in a &lt;script&gt; tag?",
+    "options": [
+      "Makes the script run slower",
+      "Loads and executes the script asynchronously",
+      "Prevents the script from running",
+      "Runs the script after DOM is ready"
+    ],
+    "correctAnswer": "Loads and executes the script asynchronously"
+  },
+  {
+    "id": 53,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "Which HTML element is used to define a web component's custom template?",
+    "options": [
+      "&lt;component&gt;",
+      "&lt;template&gt;",
+      "&lt;custom&gt;",
+      "&lt;widget&gt;"
+    ],
+    "correctAnswer": "&lt;template&gt;"
+  },
+  {
+    "id": 54,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'manifest' attribute in the &lt;html&gt; tag?",
+    "options": [
+      "Defines the document manifest",
+      "Links to an application cache manifest file",
+      "Sets the document permissions",
+      "Declares offline support"
+    ],
+    "correctAnswer": "Links to an application cache manifest file"
+  },
+  {
+    "id": 55,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What does the 'contenteditable' attribute do?",
+    "options": [
+      "Makes the page read-only",
+      "Allows the user to edit the content of an element",
+      "Adds a content editor toolbar",
+      "Locks the content from editing"
+    ],
+    "correctAnswer": "Allows the user to edit the content of an element"
+  },
+  {
+    "id": 56,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the role of &lt;base&gt; tag in HTML?",
+    "options": [
+      "Defines base CSS styles",
+      "Specifies a base URL for all relative URLs in the document",
+      "Creates a base layout",
+      "Links to base JavaScript"
+    ],
+    "correctAnswer": "Specifies a base URL for all relative URLs in the document"
+  },
+  {
+    "id": 57,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "Which attribute in &lt;form&gt; tag specifies how form data should be encoded?",
+    "options": [
+      "encoding",
+      "method",
+      "enctype",
+      "type"
+    ],
+    "correctAnswer": "enctype"
+  },
+  {
+    "id": 58,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'sandbox' attribute in an &lt;iframe&gt;?",
+    "options": [
+      "Loads the iframe in fullscreen",
+      "Restricts the capabilities of the content in the iframe",
+      "Hides the iframe border",
+      "Enables iframe caching"
+    ],
+    "correctAnswer": "Restricts the capabilities of the content in the iframe"
+  },
+  {
+    "id": 59,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What does the &lt;wbr&gt; tag do?",
+    "options": [
+      "Creates a word break opportunity",
+      "Wraps text in a bordered box",
+      "Defines web browser rendering",
+      "Adds white space"
+    ],
+    "correctAnswer": "Creates a word break opportunity"
+  },
+  {
+    "id": 60,
+    "category": "html",
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'loading' attribute in an &lt;img&gt; tag?",
+    "options": [
+      "Shows a loading spinner",
+      "Controls when the browser should load the image (lazy or eager)",
+      "Sets image loading priority",
+      "Enables animated loading"
+    ],
+    "correctAnswer": "Controls when the browser should load the image (lazy or eager)"
+  },
+  {
+    "id": 61,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "id": 62,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to change the text color?",
+    "options": [
+      "text-color",
+      "font-color",
+      "color",
+      "foreground-color"
+    ],
+    "correctAnswer": "color"
+  },
+  {
+    "id": 63,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to change the background color?",
+    "options": [
+      "background",
+      "background-color",
+      "bg-color",
+      "bgcolor"
+    ],
+    "correctAnswer": "background-color"
+  },
+  {
+    "id": 64,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "How do you add a comment in CSS?",
+    "options": [
+      "// comment",
+      "/* comment */",
+      "&lt;!-- comment --&gt;",
+      "# comment"
+    ],
+    "correctAnswer": "/* comment */"
+  },
+  {
+    "id": 65,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property is used to change the font size?",
+    "options": [
+      "text-size",
+      "font-size",
+      "size",
+      "text-style"
+    ],
+    "correctAnswer": "font-size"
+  },
+  {
+    "id": 66,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "How do you select all elements with class 'intro'?",
+    "options": [
+      "#intro",
+      ".intro",
+      "intro",
+      "*intro"
+    ],
+    "correctAnswer": ".intro"
+  },
+  {
+    "id": 67,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      ".demo",
+      "#demo",
+      "demo",
+      "*demo"
+    ],
+    "correctAnswer": "#demo"
+  },
+  {
+    "id": 68,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property is used to make text bold?",
+    "options": [
+      "font-weight",
+      "text-bold",
+      "bold",
+      "font-style"
+    ],
+    "correctAnswer": "font-weight"
+  },
+  {
+    "id": 69,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property sets the space between lines of text?",
+    "options": [
+      "line-spacing",
+      "text-spacing",
+      "line-height",
+      "spacing"
+    ],
+    "correctAnswer": "line-height"
+  },
+  {
+    "id": 70,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property is used to set the font type?",
+    "options": [
+      "font-family",
+      "font-type",
+      "font-style",
+      "typeface"
+    ],
+    "correctAnswer": "font-family"
+  },
+  {
+    "id": 71,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "How do you apply a CSS style to all &lt;p&gt; elements?",
+    "options": [
+      "p { }",
+      ".p { }",
+      "#p { }",
+      "*p { }"
+    ],
+    "correctAnswer": "p { }"
+  },
+  {
+    "id": 72,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property controls the text alignment?",
+    "options": [
+      "text-align",
+      "align",
+      "font-align",
+      "text-position"
+    ],
+    "correctAnswer": "text-align"
+  },
+  {
+    "id": 73,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property sets the width of an element?",
+    "options": [
+      "size",
+      "width",
+      "element-width",
+      "set-width"
+    ],
+    "correctAnswer": "width"
+  },
+  {
+    "id": 74,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property sets the margin outside an element?",
+    "options": [
+      "border",
+      "padding",
+      "margin",
+      "spacing"
+    ],
+    "correctAnswer": "margin"
+  },
+  {
+    "id": 75,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property sets the space inside an element's border?",
+    "options": [
+      "margin",
+      "spacing",
+      "padding",
+      "inner-space"
+    ],
+    "correctAnswer": "padding"
+  },
+  {
+    "id": 76,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property makes an element invisible but still take up space?",
+    "options": [
+      "display:none",
+      "visibility:hidden",
+      "opacity:0",
+      "Both visibility:hidden and opacity:0"
+    ],
+    "correctAnswer": "visibility:hidden"
+  },
+  {
+    "id": 77,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property removes an element from the document flow?",
+    "options": [
+      "visibility:hidden",
+      "display:none",
+      "opacity:0",
+      "position:hidden"
+    ],
+    "correctAnswer": "display:none"
+  },
+  {
+    "id": 78,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which property adds a border to an element?",
+    "options": [
+      "border",
+      "outline",
+      "edge",
+      "frame"
+    ],
+    "correctAnswer": "border"
+  },
+  {
+    "id": 79,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "How do you make text italic in CSS?",
+    "options": [
+      "font-style:italic",
+      "text-style:italic",
+      "font:italic",
+      "italic:true"
+    ],
+    "correctAnswer": "font-style:italic"
+  },
+  {
+    "id": 80,
+    "category": "css",
+    "difficulty": "easy",
+    "question": "Which CSS property controls the element's transparency?",
+    "options": [
+      "visibility",
+      "transparency",
+      "opacity",
+      "filter"
+    ],
+    "correctAnswer": "opacity"
+  },
+  {
+    "id": 81,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a valid CSS position property value?",
+    "options": [
+      "static",
+      "relative",
+      "floating",
+      "absolute"
+    ],
+    "correctAnswer": "floating"
+  },
+  {
+    "id": 82,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What does the 'box-model' in CSS consist of?",
+    "options": [
+      "Content, Padding, Border, Margin",
+      "Width, Height, Color, Border",
+      "Content, Spacing, Outline, Shadow",
+      "Padding, Margin, Font, Color"
+    ],
+    "correctAnswer": "Content, Padding, Border, Margin"
+  },
+  {
+    "id": 83,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property is used to create space between flex items?",
+    "options": [
+      "margin",
+      "padding",
+      "gap",
+      "spacing"
+    ],
+    "correctAnswer": "gap"
+  },
+  {
+    "id": 84,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What does 'display: flex' do?",
+    "options": [
+      "Makes element flexible in size",
+      "Enables flexbox layout on a container",
+      "Makes children inline",
+      "Hides the element"
+    ],
+    "correctAnswer": "Enables flexbox layout on a container"
+  },
+  {
+    "id": 85,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property aligns flex items along the main axis?",
+    "options": [
+      "align-items",
+      "justify-content",
+      "flex-align",
+      "content-justify"
+    ],
+    "correctAnswer": "justify-content"
+  },
+  {
+    "id": 86,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property aligns flex items along the cross axis?",
+    "options": [
+      "justify-content",
+      "align-items",
+      "flex-direction",
+      "cross-align"
+    ],
+    "correctAnswer": "align-items"
+  },
+  {
+    "id": 87,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What is the purpose of 'z-index' in CSS?",
+    "options": [
+      "Sets the zoom level",
+      "Controls the stacking order of elements",
+      "Sets horizontal position",
+      "Defines grid zones"
+    ],
+    "correctAnswer": "Controls the stacking order of elements"
+  },
+  {
+    "id": 88,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which CSS unit is relative to the font size of the root element?",
+    "options": [
+      "em",
+      "rem",
+      "px",
+      "vh"
+    ],
+    "correctAnswer": "rem"
+  },
+  {
+    "id": 89,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What is a CSS pseudo-class?",
+    "options": [
+      "A fake CSS class",
+      "A keyword added to a selector that specifies a special state of the element",
+      "A class applied by JavaScript",
+      "A CSS variable"
+    ],
+    "correctAnswer": "A keyword added to a selector that specifies a special state of the element"
+  },
+  {
+    "id": 90,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which pseudo-class selects an element when the mouse hovers over it?",
+    "options": [
+      ":active",
+      ":focus",
+      ":hover",
+      ":over"
+    ],
+    "correctAnswer": ":hover"
+  },
+  {
+    "id": 91,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property is used to add a shadow to an element?",
+    "options": [
+      "element-shadow",
+      "box-shadow",
+      "drop-shadow",
+      "shadow"
+    ],
+    "correctAnswer": "box-shadow"
+  },
+  {
+    "id": 92,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What does 'position: absolute' do?",
+    "options": [
+      "Positions element relative to the browser window",
+      "Positions element relative to its nearest positioned ancestor",
+      "Positions element in the normal flow",
+      "Fixes element to the viewport"
+    ],
+    "correctAnswer": "Positions element relative to its nearest positioned ancestor"
+  },
+  {
+    "id": 93,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What does 'position: fixed' do?",
+    "options": [
+      "Fixes element relative to its parent",
+      "Fixes element relative to the viewport",
+      "Prevents element from moving",
+      "Sets element position permanently"
+    ],
+    "correctAnswer": "Fixes element relative to the viewport"
+  },
+  {
+    "id": 94,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property controls how a background image repeats?",
+    "options": [
+      "background-position",
+      "background-repeat",
+      "background-size",
+      "background-style"
+    ],
+    "correctAnswer": "background-repeat"
+  },
+  {
+    "id": 95,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which CSS function is used to apply multiple transforms?",
+    "options": [
+      "multi-transform()",
+      "transform()",
+      "combine()",
+      "transform property with multiple values"
+    ],
+    "correctAnswer": "transform property with multiple values"
+  },
+  {
+    "id": 96,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What is the purpose of CSS media queries?",
+    "options": [
+      "To query CSS variables",
+      "To apply styles based on device characteristics like screen size",
+      "To load external stylesheets",
+      "To animate elements"
+    ],
+    "correctAnswer": "To apply styles based on device characteristics like screen size"
+  },
+  {
+    "id": 97,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property controls the overflow of content in an element?",
+    "options": [
+      "content",
+      "overflow",
+      "clip",
+      "wrap"
+    ],
+    "correctAnswer": "overflow"
+  },
+  {
+    "id": 98,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "What does 'float: left' do?",
+    "options": [
+      "Moves the element to the left side of the screen",
+      "Floats the element to the left of its container allowing text to wrap around it",
+      "Left aligns the text",
+      "Removes element from flex flow"
+    ],
+    "correctAnswer": "Floats the element to the left of its container allowing text to wrap around it"
+  },
+  {
+    "id": 99,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which property specifies the type of cursor when hovering over an element?",
+    "options": [
+      "mouse",
+      "pointer",
+      "cursor",
+      "hover-style"
+    ],
+    "correctAnswer": "cursor"
+  },
+  {
+    "id": 100,
+    "category": "css",
+    "difficulty": "medium",
+    "question": "Which CSS property adds rounded corners to an element?",
+    "options": [
+      "border-radius",
+      "corner-radius",
+      "round-border",
+      "border-curve"
+    ],
+    "correctAnswer": "border-radius"
+  },
+  {
+    "id": 101,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the difference between 'em' and 'rem' units?",
+    "options": [
+      "No difference",
+      "'em' is relative to parent font size, 'rem' is relative to root font size",
+      "'em' is for font size, 'rem' is for margins",
+      "'rem' is relative to parent, 'em' to root"
+    ],
+    "correctAnswer": "'em' is relative to parent font size, 'rem' is relative to root font size"
+  },
+  {
+    "id": 102,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does 'CSS specificity' mean?",
+    "options": [
+      "The speed of CSS rendering",
+      "A rule that determines which CSS style is applied when multiple rules match",
+      "The order of CSS properties",
+      "The number of CSS rules"
+    ],
+    "correctAnswer": "A rule that determines which CSS style is applied when multiple rules match"
+  },
+  {
+    "id": 103,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the CSS 'calc()' function used for?",
+    "options": [
+      "To calculate JavaScript values",
+      "To perform calculations to determine CSS property values",
+      "To measure element dimensions",
+      "To calculate grid columns"
+    ],
+    "correctAnswer": "To perform calculations to determine CSS property values"
+  },
+  {
+    "id": 104,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the purpose of 'will-change' property?",
+    "options": [
+      "Changes the element's will",
+      "Hints to the browser about which properties will change to optimize performance",
+      "Forces CSS transitions",
+      "Locks element properties"
+    ],
+    "correctAnswer": "Hints to the browser about which properties will change to optimize performance"
+  },
+  {
+    "id": 105,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is a CSS custom property (variable)?",
+    "options": [
+      "A CSS property with !important",
+      "A property defined with -- prefix that can be reused throughout the document",
+      "A property unique to one element",
+      "A dynamic property"
+    ],
+    "correctAnswer": "A property defined with -- prefix that can be reused throughout the document"
+  },
+  {
+    "id": 106,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the 'clip-path' property used for?",
+    "options": [
+      "To clip text overflow",
+      "To define a visible area of an element by clipping it to a specific shape",
+      "To create image borders",
+      "To mask background images"
+    ],
+    "correctAnswer": "To define a visible area of an element by clipping it to a specific shape"
+  },
+  {
+    "id": 107,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the difference between 'transition' and 'animation' in CSS?",
+    "options": [
+      "No difference",
+      "'transition' requires a trigger and moves between two states, 'animation' can run automatically with keyframes",
+      "'animation' is simpler than 'transition'",
+      "'transition' uses keyframes, 'animation' does not"
+    ],
+    "correctAnswer": "'transition' requires a trigger and moves between two states, 'animation' can run automatically with keyframes"
+  },
+  {
+    "id": 108,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does 'grid-template-areas' do?",
+    "options": [
+      "Sets grid item size",
+      "Defines named grid areas for easier layout",
+      "Creates grid borders",
+      "Sets column widths"
+    ],
+    "correctAnswer": "Defines named grid areas for easier layout"
+  },
+  {
+    "id": 109,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is 'stacking context' in CSS?",
+    "options": [
+      "The order CSS files are loaded",
+      "A three-dimensional conceptual space where elements are rendered based on z-index and positioning",
+      "The context for CSS variables",
+      "The rendering order of animations"
+    ],
+    "correctAnswer": "A three-dimensional conceptual space where elements are rendered based on z-index and positioning"
+  },
+  {
+    "id": 110,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the purpose of 'contain' property in CSS?",
+    "options": [
+      "Contains text overflow",
+      "Allows browser to isolate a subtree from the rest of the page for performance",
+      "Wraps content in a container",
+      "Prevents element resizing"
+    ],
+    "correctAnswer": "Allows browser to isolate a subtree from the rest of the page for performance"
+  },
+  {
+    "id": 111,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does the ':nth-child()' selector do?",
+    "options": [
+      "Selects every child element",
+      "Selects elements based on their position among siblings",
+      "Selects the nth type of element",
+      "Selects child elements of nth depth"
+    ],
+    "correctAnswer": "Selects elements based on their position among siblings"
+  },
+  {
+    "id": 112,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is 'CSS Grid' and how does it differ from Flexbox?",
+    "options": [
+      "They are the same",
+      "Grid is two-dimensional (rows and columns), Flexbox is one-dimensional (row OR column)",
+      "Grid is for images, Flexbox is for text",
+      "Grid is older than Flexbox"
+    ],
+    "correctAnswer": "Grid is two-dimensional (rows and columns), Flexbox is one-dimensional (row OR column)"
+  },
+  {
+    "id": 113,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does 'backface-visibility' property do?",
+    "options": [
+      "Hides the element's background",
+      "Controls whether the back face of a 3D-transformed element is visible",
+      "Sets visibility for backward animations",
+      "Controls reflection effects"
+    ],
+    "correctAnswer": "Controls whether the back face of a 3D-transformed element is visible"
+  },
+  {
+    "id": 114,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the 'aspect-ratio' property used for?",
+    "options": [
+      "Sets image resolution",
+      "Maintains a specific width-to-height ratio of an element",
+      "Controls video aspect",
+      "Sets screen ratio"
+    ],
+    "correctAnswer": "Maintains a specific width-to-height ratio of an element"
+  },
+  {
+    "id": 115,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does 'mix-blend-mode' do?",
+    "options": [
+      "Mixes CSS animations",
+      "Defines how an element's content should blend with the content behind it",
+      "Blends two CSS files",
+      "Merges CSS classes"
+    ],
+    "correctAnswer": "Defines how an element's content should blend with the content behind it"
+  },
+  {
+    "id": 116,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the purpose of '@keyframes' in CSS?",
+    "options": [
+      "To define media queries",
+      "To specify the intermediate steps in a CSS animation sequence",
+      "To create key variables",
+      "To define font faces"
+    ],
+    "correctAnswer": "To specify the intermediate steps in a CSS animation sequence"
+  },
+  {
+    "id": 117,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does the 'isolation' property do in CSS?",
+    "options": [
+      "Isolates CSS styles from JavaScript",
+      "Creates a new stacking context for an element",
+      "Prevents style inheritance",
+      "Isolates the element from the DOM"
+    ],
+    "correctAnswer": "Creates a new stacking context for an element"
+  },
+  {
+    "id": 118,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the 'writing-mode' property used for?",
+    "options": [
+      "To add writing animations",
+      "To control the direction in which text flows (horizontal or vertical)",
+      "To define font writing style",
+      "To enable handwriting input"
+    ],
+    "correctAnswer": "To control the direction in which text flows (horizontal or vertical)"
+  },
+  {
+    "id": 119,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What does 'scroll-snap-type' do?",
+    "options": [
+      "Snaps scroll position to a defined point",
+      "Takes a snapshot of the scroll position",
+      "Locks the scroll direction",
+      "Controls scroll animation speed"
+    ],
+    "correctAnswer": "Snaps scroll position to a defined point"
+  },
+  {
+    "id": 120,
+    "category": "css",
+    "difficulty": "hard",
+    "question": "What is the 'counter-reset' property in CSS used for?",
+    "options": [
+      "Resets all CSS counters",
+      "Initializes or resets a named CSS counter for use with 'content' property",
+      "Counts DOM elements",
+      "Resets animation counters"
+    ],
+    "correctAnswer": "Initializes or resets a named CSS counter for use with 'content' property"
+  },
+  {
+    "id": 121,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": [
+      "v",
+      "variable",
+      "var",
+      "int"
+    ],
+    "correctAnswer": "var"
+  },
+  {
+    "id": 122,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "alertBox('Hello World')",
+      "msg('Hello World')",
+      "alert('Hello World')",
+      "print('Hello World')"
+    ],
+    "correctAnswer": "alert('Hello World')"
+  },
+  {
+    "id": 123,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you write a comment in JavaScript?",
+    "options": [
+      "&lt;!-- comment --&gt;",
+      "/* comment",
+      "// comment",
+      "# comment"
+    ],
+    "correctAnswer": "// comment"
+  },
+  {
+    "id": 124,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "==",
+      "=",
+      ":=",
+      "=&gt;"
+    ],
+    "correctAnswer": "="
+  },
+  {
+    "id": 125,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "What is the correct way to write an array in JavaScript?",
+    "options": [
+      "var colors = 'red', 'green'",
+      "var colors = (1:'red', 2:'green')",
+      "var colors = ['red', 'green']",
+      "var colors = {red, green}"
+    ],
+    "correctAnswer": "var colors = ['red', 'green']"
+  },
+  {
+    "id": 126,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you find the length of a string 'Hello'?",
+    "options": [
+      "'Hello'.length",
+      "'Hello'.size()",
+      "length('Hello')",
+      "size('Hello')"
+    ],
+    "correctAnswer": "'Hello'.length"
+  },
+  {
+    "id": 127,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which method converts a string to uppercase?",
+    "options": [
+      "toUpperCase()",
+      "upper()",
+      "toUpper()",
+      "uppercase()"
+    ],
+    "correctAnswer": "toUpperCase()"
+  },
+  {
+    "id": 128,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "What does 'typeof' operator do?",
+    "options": [
+      "Returns the type of a variable",
+      "Converts variable types",
+      "Compares two types",
+      "Defines a new type"
+    ],
+    "correctAnswer": "Returns the type of a variable"
+  },
+  {
+    "id": 129,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which method is used to write HTML output in JavaScript?",
+    "options": [
+      "document.write()",
+      "console.log()",
+      "window.print()",
+      "print()"
+    ],
+    "correctAnswer": "document.write()"
+  },
+  {
+    "id": 130,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you declare a function in JavaScript?",
+    "options": [
+      "function = myFunc()",
+      "function myFunc()",
+      "def myFunc()",
+      "func myFunc()"
+    ],
+    "correctAnswer": "function myFunc()"
+  },
+  {
+    "id": 131,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "What is the result of '5 + '5' in JavaScript?",
+    "options": [
+      "10",
+      "55",
+      "Error",
+      "NaN"
+    ],
+    "correctAnswer": "55"
+  },
+  {
+    "id": 132,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the largest of zero or more numbers?",
+    "options": [
+      "Math.max()",
+      "Math.highest()",
+      "Math.largest()",
+      "top()"
+    ],
+    "correctAnswer": "Math.max()"
+  },
+  {
+    "id": 133,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you round a number to the nearest integer?",
+    "options": [
+      "Math.rnd()",
+      "Math.round()",
+      "rnd()",
+      "round()"
+    ],
+    "correctAnswer": "Math.round()"
+  },
+  {
+    "id": 134,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you remove the last element from an array?",
+    "options": [
+      "arr.delete()",
+      "arr.removeLast()",
+      "arr.pop()",
+      "arr.shift()"
+    ],
+    "correctAnswer": "arr.pop()"
+  },
+  {
+    "id": 135,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you add an element to the end of an array?",
+    "options": [
+      "arr.add()",
+      "arr.append()",
+      "arr.push()",
+      "arr.insert()"
+    ],
+    "correctAnswer": "arr.push()"
+  },
+  {
+    "id": 136,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which event fires when a user clicks on an HTML element?",
+    "options": [
+      "onmouseover",
+      "onchange",
+      "onclick",
+      "onpress"
+    ],
+    "correctAnswer": "onclick"
+  },
+  {
+    "id": 137,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "What does '===' operator do?",
+    "options": [
+      "Assigns a value",
+      "Compares value only",
+      "Compares value and type",
+      "Compares memory address"
+    ],
+    "correctAnswer": "Compares value and type"
+  },
+  {
+    "id": 138,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which method converts JSON to a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.convert()",
+      "JSON.toObject()"
+    ],
+    "correctAnswer": "JSON.parse()"
+  },
+  {
+    "id": 139,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "Which method converts a JavaScript object to JSON?",
+    "options": [
+      "JSON.parse()",
+      "JSON.toJSON()",
+      "JSON.stringify()",
+      "JSON.encode()"
+    ],
+    "correctAnswer": "JSON.stringify()"
+  },
+  {
+    "id": 140,
+    "category": "javascript",
+    "difficulty": "easy",
+    "question": "How do you check if a variable is undefined?",
+    "options": [
+      "variable === null",
+      "typeof variable === 'undefined'",
+      "variable == empty",
+      "variable.isUndefined()"
+    ],
+    "correctAnswer": "typeof variable === 'undefined'"
+  },
+  {
+    "id": 141,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is a closure in JavaScript?",
+    "options": [
+      "A function that closes the browser",
+      "A function that has access to its outer function's scope even after the outer function has returned",
+      "A way to close event listeners",
+      "A method to end loops"
+    ],
+    "correctAnswer": "A function that has access to its outer function's scope even after the outer function has returned"
+  },
+  {
+    "id": 142,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does 'hoisting' mean in JavaScript?",
+    "options": [
+      "Moving elements up the DOM",
+      "JavaScript's default behavior of moving declarations to the top of the current scope",
+      "Raising the priority of a function",
+      "Moving code to the top of a file"
+    ],
+    "correctAnswer": "JavaScript's default behavior of moving declarations to the top of the current scope"
+  },
+  {
+    "id": 143,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is the difference between 'let' and 'var'?",
+    "options": [
+      "No difference",
+      "'let' is block-scoped, 'var' is function-scoped",
+      "'var' is block-scoped, 'let' is function-scoped",
+      "'let' is older than 'var'"
+    ],
+    "correctAnswer": "'let' is block-scoped, 'var' is function-scoped"
+  },
+  {
+    "id": 144,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is an arrow function?",
+    "options": [
+      "A function with an arrow icon",
+      "A shorter syntax for writing functions using =&gt; notation",
+      "A function that points to a variable",
+      "A function only used in arrays"
+    ],
+    "correctAnswer": "A shorter syntax for writing functions using =&gt; notation"
+  },
+  {
+    "id": 145,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is the purpose of 'use strict' in JavaScript?",
+    "options": [
+      "Enables strict CSS styling",
+      "Enforces stricter parsing and error handling in JavaScript code",
+      "Makes code run faster",
+      "Enables all ES6 features"
+    ],
+    "correctAnswer": "Enforces stricter parsing and error handling in JavaScript code"
+  },
+  {
+    "id": 146,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does the spread operator '...' do?",
+    "options": [
+      "Creates a loop",
+      "Expands an iterable into individual elements",
+      "Declares rest parameters only",
+      "Merges two functions"
+    ],
+    "correctAnswer": "Expands an iterable into individual elements"
+  },
+  {
+    "id": 147,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is destructuring in JavaScript?",
+    "options": [
+      "Breaking down functions",
+      "A syntax to unpack values from arrays or properties from objects into distinct variables",
+      "Deleting object properties",
+      "Deconstructing the DOM"
+    ],
+    "correctAnswer": "A syntax to unpack values from arrays or properties from objects into distinct variables"
+  },
+  {
+    "id": 148,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is a Promise in JavaScript?",
+    "options": [
+      "A guarantee that code will run",
+      "An object representing the eventual completion or failure of an asynchronous operation",
+      "A data type for future values",
+      "A function that always returns true"
+    ],
+    "correctAnswer": "An object representing the eventual completion or failure of an asynchronous operation"
+  },
+  {
+    "id": 149,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does 'async/await' do in JavaScript?",
+    "options": [
+      "Makes code run in parallel",
+      "Simplifies working with Promises, making asynchronous code look synchronous",
+      "Prevents asynchronous execution",
+      "Speeds up JavaScript execution"
+    ],
+    "correctAnswer": "Simplifies working with Promises, making asynchronous code look synchronous"
+  },
+  {
+    "id": 150,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is the 'this' keyword in JavaScript?",
+    "options": [
+      "Refers to the current HTML element",
+      "Refers to the object that is currently executing the code",
+      "Refers to the parent function",
+      "Refers to the global window object always"
+    ],
+    "correctAnswer": "Refers to the object that is currently executing the code"
+  },
+  {
+    "id": 151,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is event bubbling in JavaScript?",
+    "options": [
+      "An error in event handling",
+      "When an event on a child element propagates up to parent elements",
+      "When events are queued",
+      "When multiple events fire simultaneously"
+    ],
+    "correctAnswer": "When an event on a child element propagates up to parent elements"
+  },
+  {
+    "id": 152,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does 'event.preventDefault()' do?",
+    "options": [
+      "Stops event bubbling",
+      "Prevents the default browser action for an event",
+      "Removes an event listener",
+      "Delays event execution"
+    ],
+    "correctAnswer": "Prevents the default browser action for an event"
+  },
+  {
+    "id": 153,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is the difference between null and undefined?",
+    "options": [
+      "They are the same",
+      "'null' is an intentional absence of value, 'undefined' means a variable has been declared but not assigned",
+      "'undefined' means null pointer",
+      "'null' is a number type"
+    ],
+    "correctAnswer": "'null' is an intentional absence of value, 'undefined' means a variable has been declared but not assigned"
+  },
+  {
+    "id": 154,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is a callback function?",
+    "options": [
+      "A function that calls another script",
+      "A function passed as an argument to another function to be executed later",
+      "A function that returns a value",
+      "A recursive function"
+    ],
+    "correctAnswer": "A function passed as an argument to another function to be executed later"
+  },
+  {
+    "id": 155,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does 'Array.map()' do?",
+    "options": [
+      "Creates a new array by mapping keys to values",
+      "Creates a new array with the results of calling a function for every element",
+      "Filters array elements",
+      "Finds elements in an array"
+    ],
+    "correctAnswer": "Creates a new array with the results of calling a function for every element"
+  },
+  {
+    "id": 156,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does 'Array.filter()' do?",
+    "options": [
+      "Removes all elements",
+      "Creates a new array with elements that pass a test function",
+      "Sorts the array",
+      "Flattens the array"
+    ],
+    "correctAnswer": "Creates a new array with elements that pass a test function"
+  },
+  {
+    "id": 157,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What does 'Array.reduce()' do?",
+    "options": [
+      "Reduces array length",
+      "Executes a reducer function on each element resulting in a single output value",
+      "Removes duplicates",
+      "Sorts elements in reverse"
+    ],
+    "correctAnswer": "Executes a reducer function on each element resulting in a single output value"
+  },
+  {
+    "id": 158,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is the purpose of 'localStorage' in JavaScript?",
+    "options": [
+      "Stores data on the server",
+      "Stores data in the browser with no expiration time",
+      "Stores temporary session data",
+      "Stores JavaScript modules"
+    ],
+    "correctAnswer": "Stores data in the browser with no expiration time"
+  },
+  {
+    "id": 159,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is 'NaN' in JavaScript?",
+    "options": [
+      "Not a Node",
+      "A number value representing 'Not a Number'",
+      "Null and Nothing",
+      "A null value"
+    ],
+    "correctAnswer": "A number value representing 'Not a Number'"
+  },
+  {
+    "id": 160,
+    "category": "javascript",
+    "difficulty": "medium",
+    "question": "What is a template literal in JavaScript?",
+    "options": [
+      "A predefined string template",
+      "A string defined with backticks that allows embedded expressions using ${}",
+      "A string formatting method",
+      "A string constant"
+    ],
+    "correctAnswer": "A string defined with backticks that allows embedded expressions using ${}"
+  },
+  {
+    "id": 161,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the event loop in JavaScript?",
+    "options": [
+      "A loop that listens for events",
+      "A mechanism that handles asynchronous callbacks by monitoring the call stack and task queue",
+      "A for loop inside an event handler",
+      "A loop that fires DOM events"
+    ],
+    "correctAnswer": "A mechanism that handles asynchronous callbacks by monitoring the call stack and task queue"
+  },
+  {
+    "id": 162,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is prototypal inheritance in JavaScript?",
+    "options": [
+      "Inheriting HTML prototypes",
+      "A mechanism where objects inherit directly from other objects via the prototype chain",
+      "A class-based inheritance system",
+      "Copying object properties"
+    ],
+    "correctAnswer": "A mechanism where objects inherit directly from other objects via the prototype chain"
+  },
+  {
+    "id": 163,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the difference between call(), apply() and bind()?",
+    "options": [
+      "They are the same",
+      "call() and apply() invoke function immediately with different argument passing, bind() returns a new function",
+      "bind() invokes immediately, call() delays",
+      "apply() is deprecated"
+    ],
+    "correctAnswer": "call() and apply() invoke function immediately with different argument passing, bind() returns a new function"
+  },
+  {
+    "id": 164,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is a WeakMap in JavaScript?",
+    "options": [
+      "A Map with weak encryption",
+      "A Map where keys must be objects and are weakly held — allowing garbage collection",
+      "A lightweight version of Map",
+      "A read-only Map"
+    ],
+    "correctAnswer": "A Map where keys must be objects and are weakly held — allowing garbage collection"
+  },
+  {
+    "id": 165,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is a Generator function in JavaScript?",
+    "options": [
+      "A function that generates HTML",
+      "A function that can pause and resume execution using yield keyword",
+      "A function that auto-generates test data",
+      "A function that returns multiple values at once"
+    ],
+    "correctAnswer": "A function that can pause and resume execution using yield keyword"
+  },
+  {
+    "id": 166,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the difference between microtasks and macrotasks?",
+    "options": [
+      "No difference",
+      "Microtasks (Promises) run before macrotasks (setTimeout) in the event loop",
+      "Macrotasks run before microtasks",
+      "They run simultaneously"
+    ],
+    "correctAnswer": "Microtasks (Promises) run before macrotasks (setTimeout) in the event loop"
+  },
+  {
+    "id": 167,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is a Proxy in JavaScript?",
+    "options": [
+      "A server proxy",
+      "An object that wraps another object and intercepts fundamental operations like get, set",
+      "A design pattern for APIs",
+      "A security mechanism"
+    ],
+    "correctAnswer": "An object that wraps another object and intercepts fundamental operations like get, set"
+  },
+  {
+    "id": 168,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is memoization in JavaScript?",
+    "options": [
+      "Memorizing code structure",
+      "An optimization technique that caches results of expensive function calls",
+      "Writing memory-efficient code",
+      "A memory management technique"
+    ],
+    "correctAnswer": "An optimization technique that caches results of expensive function calls"
+  },
+  {
+    "id": 169,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the difference between deep copy and shallow copy?",
+    "options": [
+      "No difference",
+      "Shallow copy copies only the first level, deep copy copies all nested levels",
+      "Deep copy is faster",
+      "Shallow copy uses more memory"
+    ],
+    "correctAnswer": "Shallow copy copies only the first level, deep copy copies all nested levels"
+  },
+  {
+    "id": 170,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is currying in JavaScript?",
+    "options": [
+      "A cooking-related function",
+      "Transforming a function with multiple arguments into a sequence of functions each taking a single argument",
+      "A method of sorting functions",
+      "A method to combine functions"
+    ],
+    "correctAnswer": "Transforming a function with multiple arguments into a sequence of functions each taking a single argument"
+  },
+  {
+    "id": 171,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the Temporal Dead Zone (TDZ)?",
+    "options": [
+      "A network timeout zone",
+      "The period between entering scope and initialization where let/const variables cannot be accessed",
+      "A zone where time functions are blocked",
+      "A memory leak zone"
+    ],
+    "correctAnswer": "The period between entering scope and initialization where let/const variables cannot be accessed"
+  },
+  {
+    "id": 172,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is Object.freeze() used for?",
+    "options": [
+      "Freezes animation on objects",
+      "Prevents modification of existing properties and values of an object",
+      "Makes object immutable permanently in memory",
+      "Pauses object rendering"
+    ],
+    "correctAnswer": "Prevents modification of existing properties and values of an object"
+  },
+  {
+    "id": 173,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the purpose of Symbol in JavaScript?",
+    "options": [
+      "A visual symbol in strings",
+      "A unique and immutable primitive value often used as object property keys",
+      "A mathematical symbol type",
+      "A special string type"
+    ],
+    "correctAnswer": "A unique and immutable primitive value often used as object property keys"
+  },
+  {
+    "id": 174,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What does 'Object.create()' do?",
+    "options": [
+      "Creates a new class",
+      "Creates a new object with the specified object as prototype",
+      "Copies an existing object",
+      "Creates a frozen object"
+    ],
+    "correctAnswer": "Creates a new object with the specified object as prototype"
+  },
+  {
+    "id": 175,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is tail call optimization?",
+    "options": [
+      "Optimizing the last line of code",
+      "A technique where recursive tail calls are optimized to avoid adding new stack frames",
+      "Removing the last element from call stack",
+      "Optimizing callback functions"
+    ],
+    "correctAnswer": "A technique where recursive tail calls are optimized to avoid adding new stack frames"
+  },
+  {
+    "id": 176,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the purpose of 'Reflect' in JavaScript?",
+    "options": [
+      "Reflects DOM changes",
+      "Provides methods for interceptable JavaScript operations, similar to Proxy traps",
+      "Mirrors object properties",
+      "Reflects prototype chain"
+    ],
+    "correctAnswer": "Provides methods for interceptable JavaScript operations, similar to Proxy traps"
+  },
+  {
+    "id": 177,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is function composition in JavaScript?",
+    "options": [
+      "Writing multiple functions",
+      "Combining two or more functions to produce a new function",
+      "Composing class methods",
+      "A design pattern for modules"
+    ],
+    "correctAnswer": "Combining two or more functions to produce a new function"
+  },
+  {
+    "id": 178,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the difference between setTimeout and setInterval?",
+    "options": [
+      "They are the same",
+      "setTimeout runs once after a delay, setInterval runs repeatedly at a specified interval",
+      "setInterval runs once, setTimeout repeats",
+      "setTimeout is asynchronous, setInterval is synchronous"
+    ],
+    "correctAnswer": "setTimeout runs once after a delay, setInterval runs repeatedly at a specified interval"
+  },
+  {
+    "id": 179,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is an IIFE in JavaScript?",
+    "options": [
+      "Immediately Invoked Function Expression — a function that runs immediately after being defined",
+      "Internal Interface Function Expression",
+      "A named function",
+      "An imported module function"
+    ],
+    "correctAnswer": "Immediately Invoked Function Expression — a function that runs immediately after being defined"
+  },
+  {
+    "id": 180,
+    "category": "javascript",
+    "difficulty": "hard",
+    "question": "What is the purpose of 'Object.defineProperty()'?",
+    "options": [
+      "Defines a new class property",
+      "Defines a new property directly on an object with fine-grained control over its behavior",
+      "Adds properties dynamically",
+      "Prevents property access"
+    ],
+    "correctAnswer": "Defines a new property directly on an object with fine-grained control over its behavior"
+  },
+  {
+    "id": 181,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is used to pass data to components from outside?",
+    "options": [
+      "setState",
+      "Render with arguments",
+      "props",
+      "PropTypes"
+    ],
+    "correctAnswer": "props"
+  },
+  {
+    "id": 182,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is JSX?",
+    "options": [
+      "A JavaScript extension for XML-like syntax in React",
+      "A CSS preprocessor",
+      "A JavaScript XML library",
+      "A JSON format"
+    ],
+    "correctAnswer": "A JavaScript extension for XML-like syntax in React"
+  },
+  {
+    "id": 183,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "Which hook is used to manage state in a functional component?",
+    "options": [
+      "useEffect",
+      "useContext",
+      "useState",
+      "useReducer"
+    ],
+    "correctAnswer": "useState"
+  },
+  {
+    "id": 184,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is a React component?",
+    "options": [
+      "A JavaScript class only",
+      "A reusable piece of UI that can be a function or class",
+      "An HTML template",
+      "A CSS module"
+    ],
+    "correctAnswer": "A reusable piece of UI that can be a function or class"
+  },
+  {
+    "id": 185,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "How do you render a component in React?",
+    "options": [
+      "component.render()",
+      "ReactDOM.render()",
+      "React.show()",
+      "render.component()"
+    ],
+    "correctAnswer": "ReactDOM.render()"
+  },
+  {
+    "id": 186,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is the virtual DOM?",
+    "options": [
+      "A fake browser DOM",
+      "A lightweight in-memory representation of the real DOM used by React to optimize updates",
+      "A server-side DOM",
+      "A CSS representation of DOM"
+    ],
+    "correctAnswer": "A lightweight in-memory representation of the real DOM used by React to optimize updates"
+  },
+  {
+    "id": 187,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is the purpose of 'key' prop in a list?",
+    "options": [
+      "To style list items",
+      "To help React identify which items have changed for efficient re-rendering",
+      "To count list items",
+      "To sort list items"
+    ],
+    "correctAnswer": "To help React identify which items have changed for efficient re-rendering"
+  },
+  {
+    "id": 188,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "How do you handle a click event in React?",
+    "options": [
+      "onclick='handler()'",
+      "onClick={handler}",
+      "click={handler()}",
+      "on-click={handler}"
+    ],
+    "correctAnswer": "onClick={handler}"
+  },
+  {
+    "id": 189,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is the default value of state in React if not initialized?",
+    "options": [
+      "null",
+      "0",
+      "undefined",
+      "empty"
+    ],
+    "correctAnswer": "undefined"
+  },
+  {
+    "id": 190,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What does 'setState' do in React?",
+    "options": [
+      "Directly changes the state variable",
+      "Triggers a re-render by scheduling a state update",
+      "Deletes the current state",
+      "Pauses the component"
+    ],
+    "correctAnswer": "Triggers a re-render by scheduling a state update"
+  },
+  {
+    "id": 191,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What file extension is commonly used for React components?",
+    "options": [
+      ".react",
+      ".jsx or .js",
+      ".html",
+      ".tsx only"
+    ],
+    "correctAnswer": ".jsx or .js"
+  },
+  {
+    "id": 192,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is a functional component in React?",
+    "options": [
+      "A component written as a JavaScript function",
+      "A component that only handles functions",
+      "A component without state",
+      "A component using only built-in functions"
+    ],
+    "correctAnswer": "A component written as a JavaScript function"
+  },
+  {
+    "id": 193,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "Which method is used to update state in a class component?",
+    "options": [
+      "updateState()",
+      "this.state =",
+      "this.setState()",
+      "changeState()"
+    ],
+    "correctAnswer": "this.setState()"
+  },
+  {
+    "id": 194,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is a prop in React?",
+    "options": [
+      "A property passed to a component from its parent",
+      "A state variable",
+      "A lifecycle method",
+      "A CSS property"
+    ],
+    "correctAnswer": "A property passed to a component from its parent"
+  },
+  {
+    "id": 195,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "How do you conditionally render a component in React?",
+    "options": [
+      "Using if-else or ternary operator in JSX",
+      "Using conditional CSS",
+      "Using render conditions",
+      "Using switch statements only"
+    ],
+    "correctAnswer": "Using if-else or ternary operator in JSX"
+  },
+  {
+    "id": 196,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What does 'import React from react' do?",
+    "options": [
+      "Imports the React library needed to use JSX",
+      "Imports React components",
+      "Creates a React instance",
+      "Links to React CDN"
+    ],
+    "correctAnswer": "Imports the React library needed to use JSX"
+  },
+  {
+    "id": 197,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is the correct way to apply a CSS class in JSX?",
+    "options": [
+      "class='myClass'",
+      "className='myClass'",
+      "cssClass='myClass'",
+      "style='myClass'"
+    ],
+    "correctAnswer": "className='myClass'"
+  },
+  {
+    "id": 198,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What is the top-level component in a React app usually called?",
+    "options": [
+      "Main",
+      "Index",
+      "App",
+      "Root"
+    ],
+    "correctAnswer": "App"
+  },
+  {
+    "id": 199,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "How do you embed a JavaScript expression in JSX?",
+    "options": [
+      "Using (expression)",
+      "Using {expression}",
+      "Using [expression]",
+      "Using $expression"
+    ],
+    "correctAnswer": "Using {expression}"
+  },
+  {
+    "id": 200,
+    "category": "react",
+    "difficulty": "easy",
+    "question": "What does 'props.children' refer to?",
+    "options": [
+      "Child components passed between the opening and closing tags of a component",
+      "The number of props",
+      "Nested props objects",
+      "Sub-components defined in the same file"
+    ],
+    "correctAnswer": "Child components passed between the opening and closing tags of a component"
+  },
+  {
+    "id": 201,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "Which hook is used to perform side effects in a function component?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useContext",
+      "useReducer"
+    ],
+    "correctAnswer": "useEffect"
+  },
+  {
+    "id": 202,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is the purpose of the dependency array in useEffect?",
+    "options": [
+      "Lists all state variables",
+      "Controls when the effect runs — empty array means run once, listed deps mean run on change",
+      "Declares dependencies for the component",
+      "Defines props dependencies"
+    ],
+    "correctAnswer": "Controls when the effect runs — empty array means run once, listed deps mean run on change"
+  },
+  {
+    "id": 203,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is useContext used for?",
+    "options": [
+      "To create context",
+      "To consume a React context value without prop drilling",
+      "To set global styles",
+      "To share state between siblings only"
+    ],
+    "correctAnswer": "To consume a React context value without prop drilling"
+  },
+  {
+    "id": 204,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is React Context?",
+    "options": [
+      "A global state management tool",
+      "A way to pass data through the component tree without prop drilling",
+      "A replacement for Redux",
+      "A component communication system"
+    ],
+    "correctAnswer": "A way to pass data through the component tree without prop drilling"
+  },
+  {
+    "id": 205,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What does useRef do in React?",
+    "options": [
+      "Refreshes the component",
+      "Returns a mutable ref object that persists across renders without causing re-renders",
+      "References a state variable",
+      "Creates a new component reference"
+    ],
+    "correctAnswer": "Returns a mutable ref object that persists across renders without causing re-renders"
+  },
+  {
+    "id": 206,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is a controlled component in React?",
+    "options": [
+      "A component controlled by a parent only",
+      "A form element whose value is controlled by React state",
+      "A component with strict props",
+      "A component that cannot be modified"
+    ],
+    "correctAnswer": "A form element whose value is controlled by React state"
+  },
+  {
+    "id": 207,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is an uncontrolled component?",
+    "options": [
+      "A component without props",
+      "A form element that manages its own state through the DOM using refs",
+      "A component that cannot be tested",
+      "A legacy component"
+    ],
+    "correctAnswer": "A form element that manages its own state through the DOM using refs"
+  },
+  {
+    "id": 208,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is the purpose of useReducer?",
+    "options": [
+      "To reduce component size",
+      "To manage complex state logic as an alternative to useState",
+      "To optimize render performance",
+      "To reduce the number of renders"
+    ],
+    "correctAnswer": "To manage complex state logic as an alternative to useState"
+  },
+  {
+    "id": 209,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is React Router used for?",
+    "options": [
+      "Routing API requests",
+      "Handling navigation and rendering components based on URL in React apps",
+      "Creating route-based styles",
+      "Managing server routes"
+    ],
+    "correctAnswer": "Handling navigation and rendering components based on URL in React apps"
+  },
+  {
+    "id": 210,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is the purpose of useMemo?",
+    "options": [
+      "Memorizes the entire component",
+      "Memoizes the result of a computation to avoid re-computing on every render",
+      "Caches API responses",
+      "Stores previous state"
+    ],
+    "correctAnswer": "Memoizes the result of a computation to avoid re-computing on every render"
+  },
+  {
+    "id": 211,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is useCallback used for?",
+    "options": [
+      "To call a function immediately",
+      "To memoize a function so it is not recreated on every render",
+      "To callback after state update",
+      "To schedule function calls"
+    ],
+    "correctAnswer": "To memoize a function so it is not recreated on every render"
+  },
+  {
+    "id": 212,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is prop drilling?",
+    "options": [
+      "A technique to drill into props",
+      "Passing props through multiple levels of components that don't need them just to reach a deeply nested component",
+      "Adding too many props",
+      "Destructuring props"
+    ],
+    "correctAnswer": "Passing props through multiple levels of components that don't need them just to reach a deeply nested component"
+  },
+  {
+    "id": 213,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is the difference between state and props?",
+    "options": [
+      "They are the same",
+      "State is managed internally by the component, props are passed from parent to child",
+      "Props are internal, state is external",
+      "State is immutable, props are mutable"
+    ],
+    "correctAnswer": "State is managed internally by the component, props are passed from parent to child"
+  },
+  {
+    "id": 214,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is React Fragments?",
+    "options": [
+      "Broken React components",
+      "A way to group multiple elements without adding extra DOM nodes using &lt;&gt; or &lt;Fragment&gt;",
+      "A performance optimization",
+      "A component type"
+    ],
+    "correctAnswer": "A way to group multiple elements without adding extra DOM nodes using &lt;&gt; or &lt;Fragment&gt;"
+  },
+  {
+    "id": 215,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is the purpose of React.StrictMode?",
+    "options": [
+      "Enforces strict CSS rules",
+      "Highlights potential problems in an application during development",
+      "Makes React run faster",
+      "Prevents state mutations"
+    ],
+    "correctAnswer": "Highlights potential problems in an application during development"
+  },
+  {
+    "id": 216,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is a higher-order component (HOC)?",
+    "options": [
+      "A component with higher priority",
+      "A function that takes a component and returns a new enhanced component",
+      "A component that renders above others",
+      "The top-level component in a tree"
+    ],
+    "correctAnswer": "A function that takes a component and returns a new enhanced component"
+  },
+  {
+    "id": 217,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What does the useLayoutEffect hook do?",
+    "options": [
+      "Same as useEffect but fires synchronously after all DOM mutations",
+      "Lays out the component",
+      "Manages layout state",
+      "Controls CSS layout"
+    ],
+    "correctAnswer": "Same as useEffect but fires synchronously after all DOM mutations"
+  },
+  {
+    "id": 218,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is lazy loading in React?",
+    "options": [
+      "Slow rendering technique",
+      "Loading components only when they are needed using React.lazy()",
+      "A rendering optimization",
+      "Delaying state updates"
+    ],
+    "correctAnswer": "Loading components only when they are needed using React.lazy()"
+  },
+  {
+    "id": 219,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is Suspense in React?",
+    "options": [
+      "A loading state handler",
+      "A component that lets you wait for something like lazy-loaded components before rendering",
+      "A way to suspend renders",
+      "A timeout component"
+    ],
+    "correctAnswer": "A component that lets you wait for something like lazy-loaded components before rendering"
+  },
+  {
+    "id": 220,
+    "category": "react",
+    "difficulty": "medium",
+    "question": "What is reconciliation in React?",
+    "options": [
+      "Merging two React apps",
+      "The process React uses to compare the virtual DOM with the previous version to update only what changed",
+      "Resolving component conflicts",
+      "Combining state and props"
+    ],
+    "correctAnswer": "The process React uses to compare the virtual DOM with the previous version to update only what changed"
+  },
+  {
+    "id": 221,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What does React.memo do?",
+    "options": [
+      "It memorizes the state of a component",
+      "It is a higher-order component that prevents unnecessary re-renders if props haven't changed",
+      "It creates a global store for application data",
+      "It forces a component to re-render synchronously"
+    ],
+    "correctAnswer": "It is a higher-order component that prevents unnecessary re-renders if props haven't changed"
+  },
+  {
+    "id": 222,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the Fiber architecture in React?",
+    "options": [
+      "A file management system",
+      "React's internal reconciliation engine that enables incremental rendering and priority-based updates",
+      "A state management tool",
+      "A CSS-in-JS solution"
+    ],
+    "correctAnswer": "React's internal reconciliation engine that enables incremental rendering and priority-based updates"
+  },
+  {
+    "id": 223,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of Error Boundaries in React?",
+    "options": [
+      "To catch JavaScript syntax errors",
+      "To catch rendering errors in child components and display a fallback UI",
+      "To handle API errors",
+      "To debug React components"
+    ],
+    "correctAnswer": "To catch rendering errors in child components and display a fallback UI"
+  },
+  {
+    "id": 224,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the difference between useEffect and useLayoutEffect?",
+    "options": [
+      "No difference",
+      "useEffect runs asynchronously after render, useLayoutEffect runs synchronously after DOM updates but before paint",
+      "useLayoutEffect is deprecated",
+      "useEffect is synchronous"
+    ],
+    "correctAnswer": "useEffect runs asynchronously after render, useLayoutEffect runs synchronously after DOM updates but before paint"
+  },
+  {
+    "id": 225,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of React Portals?",
+    "options": [
+      "To create React gateways",
+      "To render children into a DOM node outside the parent component's DOM hierarchy",
+      "To connect React to a server",
+      "To share state across apps"
+    ],
+    "correctAnswer": "To render children into a DOM node outside the parent component's DOM hierarchy"
+  },
+  {
+    "id": 226,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is code splitting in React?",
+    "options": [
+      "Splitting React code into multiple files",
+      "Breaking the app bundle into smaller chunks that are loaded on demand to improve performance",
+      "Dividing components into smaller pieces",
+      "Splitting state management"
+    ],
+    "correctAnswer": "Breaking the app bundle into smaller chunks that are loaded on demand to improve performance"
+  },
+  {
+    "id": 227,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of forwardRef in React?",
+    "options": [
+      "To forward props to child",
+      "To forward a ref through a component to one of its children",
+      "To create bidirectional refs",
+      "To pass refs as props"
+    ],
+    "correctAnswer": "To forward a ref through a component to one of its children"
+  },
+  {
+    "id": 228,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is concurrent mode in React?",
+    "options": [
+      "Running multiple React apps simultaneously",
+      "A set of features allowing React to interrupt rendering work and prioritize more urgent updates",
+      "Multi-threaded React rendering",
+      "Concurrent API calls in React"
+    ],
+    "correctAnswer": "A set of features allowing React to interrupt rendering work and prioritize more urgent updates"
+  },
+  {
+    "id": 229,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the useImperativeHandle hook used for?",
+    "options": [
+      "To imperatively update state",
+      "To customize the instance value exposed when using ref with forwardRef",
+      "To force imperative rendering",
+      "To control DOM imperatively"
+    ],
+    "correctAnswer": "To customize the instance value exposed when using ref with forwardRef"
+  },
+  {
+    "id": 230,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the difference between Redux and Context API?",
+    "options": [
+      "They are the same",
+      "Redux is a standalone library with middleware support and DevTools, Context API is built-in but less powerful for complex state",
+      "Context API is better than Redux always",
+      "Redux is deprecated"
+    ],
+    "correctAnswer": "Redux is a standalone library with middleware support and DevTools, Context API is built-in but less powerful for complex state"
+  },
+  {
+    "id": 231,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of the useDebugValue hook?",
+    "options": [
+      "To debug component renders",
+      "To display a label for custom hooks in React DevTools",
+      "To log debug information",
+      "To enable debug mode"
+    ],
+    "correctAnswer": "To display a label for custom hooks in React DevTools"
+  },
+  {
+    "id": 232,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is React Server Components?",
+    "options": [
+      "Components that run on the server and never send JavaScript to the client",
+      "Server-side rendering of React",
+      "Components for Node.js only",
+      "API-fetching components"
+    ],
+    "correctAnswer": "Components that run on the server and never send JavaScript to the client"
+  },
+  {
+    "id": 233,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'key' prop during reconciliation?",
+    "options": [
+      "Styling list items",
+      "Helps React uniquely identify elements to determine which items changed, were added, or removed efficiently",
+      "Counting rendered elements",
+      "Sorting elements"
+    ],
+    "correctAnswer": "Helps React uniquely identify elements to determine which items changed, were added, or removed efficiently"
+  },
+  {
+    "id": 234,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is startTransition in React 18?",
+    "options": [
+      "Starts a CSS transition",
+      "Marks state updates as non-urgent so React can prioritize more critical updates",
+      "Starts a component animation",
+      "Initiates page transitions"
+    ],
+    "correctAnswer": "Marks state updates as non-urgent so React can prioritize more critical updates"
+  },
+  {
+    "id": 235,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is automatic batching in React 18?",
+    "options": [
+      "Automatic code splitting",
+      "React automatically batches multiple state updates into a single re-render for performance",
+      "Automatic data fetching",
+      "Automatic component grouping"
+    ],
+    "correctAnswer": "React automatically batches multiple state updates into a single re-render for performance"
+  },
+  {
+    "id": 236,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is a custom hook in React?",
+    "options": [
+      "A modified built-in hook",
+      "A JavaScript function starting with 'use' that can call other hooks and encapsulate reusable logic",
+      "A hook only for class components",
+      "A third-party hook"
+    ],
+    "correctAnswer": "A JavaScript function starting with 'use' that can call other hooks and encapsulate reusable logic"
+  },
+  {
+    "id": 237,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of getDerivedStateFromProps?",
+    "options": [
+      "To derive CSS from props",
+      "A static lifecycle method that updates state based on changes in props before rendering",
+      "To get initial state from props",
+      "To derive new props from state"
+    ],
+    "correctAnswer": "A static lifecycle method that updates state based on changes in props before rendering"
+  },
+  {
+    "id": 238,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the significance of shouldComponentUpdate?",
+    "options": [
+      "Forces a component to update",
+      "Allows you to control whether a component should re-render by returning true or false",
+      "Checks if props are updated",
+      "A required lifecycle method"
+    ],
+    "correctAnswer": "Allows you to control whether a component should re-render by returning true or false"
+  },
+  {
+    "id": 239,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is hydration in React?",
+    "options": [
+      "Adding water to React",
+      "The process of attaching event listeners to server-rendered HTML so React can take over on the client",
+      "Loading data into components",
+      "Initializing React state"
+    ],
+    "correctAnswer": "The process of attaching event listeners to server-rendered HTML so React can take over on the client"
+  },
+  {
+    "id": 240,
+    "category": "react",
+    "difficulty": "hard",
+    "question": "What is the purpose of React.cloneElement?",
+    "options": [
+      "Clones a component class",
+      "Creates a new React element using an existing element as a starting point, allowing you to modify its props",
+      "Copies component state",
+      "Duplicates a component in the DOM"
+    ],
+    "correctAnswer": "Creates a new React element using an existing element as a starting point, allowing you to modify its props"
+  }
+]

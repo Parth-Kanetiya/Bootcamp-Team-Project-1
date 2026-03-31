@@ -141,6 +141,12 @@ nav{
     display: none;
 }
 
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .submit-btn{
     color: white;
     font-size: 18px;
@@ -150,8 +156,11 @@ nav{
     border: 2px solid white;
     box-shadow: 0 0 25px white;
     border-radius: 50px;
-
+    
     margin: 50px 0px;
+}
+.submit-btn:hover{
+    cursor: pointer;      
 }
 
 @media (max-width: 1000px) {
