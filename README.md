@@ -1,4 +1,4 @@
-# Bootcamp-Team-Project-1
+# Quick-Quiz
 
 1. Interactive Web Quiz Application:
     A dynamic, fully responsive web application that challenges users with randomized questions across multiple subjects. The app tracks performance in real-time and provides a detailed analytical dashboard upon completion.
